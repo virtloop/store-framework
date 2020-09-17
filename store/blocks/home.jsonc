@@ -3,7 +3,8 @@
     "blocks": [
       "flex-layout.row",
       "info-card#button-right",
-      "info-card#button-left"
+      "info-card#button-left",
+      "shelf"
     ]
   },
   "rich-text": {
@@ -72,5 +73,5 @@
       "src": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/major_appliance_banner___bb10093866a127345ddfbcca3efa5022.png",
       "maxWidth": "100%"
     }
-  }
+  },
 }
